@@ -26,4 +26,4 @@ resources:
   homepage: https://metacpan.org/release/Mojolicious-Plugin-ValidateMoose
   license: http://dev.perl.org/licenses/
   repository: git://github.com/mojolicious-plugin-validatemoose
-version: 0.01
+version: 0.02
